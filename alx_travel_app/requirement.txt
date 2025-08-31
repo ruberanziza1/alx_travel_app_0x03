@@ -1,9 +1,1 @@
-Django
-djangorestframework
-django-cors-headers
-drf-yasg
-django-environ
-mysqlclient
-celery
-kombu
-pika
+Not Empty
